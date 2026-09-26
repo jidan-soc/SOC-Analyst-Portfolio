@@ -28,7 +28,7 @@ My approach is focused on understanding the reasoning behind security investigat
 
 | Project | Focus | Status |
 |---|---|---|
-| Phishing Investigation | Email analysis, indicators of compromise, investigation workflow | Planned |
+| Phishing Investigation | Email analysis, indicators of compromise, investigation workflow | In Progress
 | Brute-Force Investigation | Authentication logs, attack patterns, investigation | Planned |
 | Windows Log Analysis | Event analysis and suspicious activity identification | Planned |
 | MITRE ATT&CK Investigation | Adversary techniques and attack mapping | Planned |

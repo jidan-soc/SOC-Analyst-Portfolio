@@ -1,0 +1,16 @@
+SOC AUTHENTICATION LOG TRIAGE
+==================================
+Events parsed: 13
+Unique source/user pairs with failures: 2
+Alerts generated: 3
+
+[1] AUTH-001 | Medium
+    6 failed logins observed from 192.0.2.10
+
+[2] AUTH-001 | Medium
+    6 failed logins observed from 198.51.100.22
+
+[3] AUTH-002 | High - review
+    Successful login for alex at 2026-10-01T09:05:00Z after 5 earlier failures from 192.0.2.10
+
+Analyst reminder: alerts require contextual validation; they are not proof of compromise.

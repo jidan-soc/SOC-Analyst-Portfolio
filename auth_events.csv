@@ -1,0 +1,14 @@
+timestamp,username,source_ip,event,result
+2026-10-01T09:00:00Z,alex,192.0.2.10,login,failure
+2026-10-01T09:01:00Z,alex,192.0.2.10,login,failure
+2026-10-01T09:02:00Z,alex,192.0.2.10,login,failure
+2026-10-01T09:03:00Z,alex,192.0.2.10,login,failure
+2026-10-01T09:04:00Z,alex,192.0.2.10,login,failure
+2026-10-01T09:05:00Z,alex,192.0.2.10,login,success
+2026-10-01T10:00:00Z,sam,198.51.100.22,login,failure
+2026-10-01T10:02:00Z,sam,198.51.100.22,login,failure
+2026-10-01T10:04:00Z,sam,198.51.100.22,login,failure
+2026-10-01T10:06:00Z,sam,198.51.100.22,login,failure
+2026-10-01T10:08:00Z,sam,198.51.100.22,login,failure
+2026-10-01T10:10:00Z,sam,198.51.100.22,login,failure
+2026-10-01T11:00:00Z,lee,203.0.113.7,login,success

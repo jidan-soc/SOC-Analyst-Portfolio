@@ -13,9 +13,9 @@ These are simple training rules, not production-grade detections. They do not ac
 
 ## Files
 
-- `auth_events.csv` — synthetic events
-- `analyze_auth_logs.py` — standard-library Python script
-- `expected_output.txt` — example findings
+- [auth_events.csv](auth_events.csv) — synthetic events
+- [analyze_auth_logs.py](analyze_auth_logs.py) — Python script
+- [expected_output.txt](expected_output.txt) — example findings
 
 ## Run
 

@@ -34,7 +34,7 @@ This repository contains practical, documented **lab exercises using simulated d
 - Python 3 (Project 02)
 - CSV and JSON-formatted simulated event data
 - Markdown documentation
-- Familiarity with Wireshark, Nmap, TCPdump, and Seceon SIEM is described in the candidate's CV; this repository does not claim that these tools were used in every project.
+  
 
 ## Important integrity note
 

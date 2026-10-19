@@ -11,8 +11,7 @@ This repository contains practical, documented **lab exercises using simulated d
 |[01 — Simulated Phishing Investigation](01%20%E2%80%94%20Simulated%20Phishing%20Investigation.md) | Email triage, indicator review, risk assessment, response recommendations | Documented lab |
 | [02 — Windows Authentication Log Triage](02%20%E2%80%94%20Windows%20Authentication%20Log%20Triage.md) | Log parsing, failed-login review, source-IP grouping, alert prioritization | Runnable Python lab |
 | [03 — Incident Response Playbook](03%20%E2%80%94%20Incident%20Response%20Playbook.md) | Triage checklist, containment, evidence preservation, escalation | Playbook |
-| [04 — SOC Alert Investigation Template](04%20%E2%80%94%20SOC%20Alert%20Investigation%20Template.md)
- | Consistent investigation notes, timeline, impact and closure | Template |
+| [04 — SOC Alert Investigation Template](04%20%E2%80%94%20SOC%20Alert%20Investigation%20Template.md)| Consistent investigation notes, timeline, impact and closure | Template |
 
 
 ## Quick start
